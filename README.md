@@ -1,3 +1,8 @@
+# To begin: 
+
+1) Open index.html in your browser 
+
+
 Process in optmizing the website: 
 
 1) i went here and tested out the site I hosted on github - https://developers.google.com/speed/pagespeed/insights/
